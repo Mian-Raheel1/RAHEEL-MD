@@ -1,15 +1,15 @@
 // 🌟 Bot Configuration File 🌟
-// Edit these values to personalize your MANI BOT
+// Edit these values to personalize your RAHEEL BOT
 
 const settings = {
   // 🏷️ Sticker Settings
-  packname: '💎 MANI-TECH-MD 💎',
-  author: '👑 ManiMD Official 🇵🇰',
+  packname: '💎 RAHEEL-MD 💎',
+  author: '👑 RAHEEL-MD Official 🇵🇰',
 
   // 🤖 Bot Identity
-  botName: '⚡ MANI TECH MD ⚡',
-  botOwner: '🌍 MANI MD Official 🇵🇰',   // Change to your name if needed
-  ownerNumber: '923033096103',        // Your number without + symbol
+  botName: '⚡ RAHEEL MD ⚡',
+  botOwner: '🌍 RAHEEL MD Official 🇵🇰',   // Change to your name if needed
+  ownerNumber: '923248394167',        // Your number without + symbol
 
   // 🎬 APIs
   giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq', // For GIF commands
@@ -18,9 +18,9 @@ const settings = {
   commandMode: 'public', // Options: 'public' (everyone) | 'private' (owner only)
 
   // 📝 Meta Information
-  description: '💬 A fun, powerful & stylish WhatsApp MD bot created with ❤️ by MANI POWER.',
+  description: '💬 A fun, powerful & stylish WhatsApp MD bot created with ❤️ by RAHEEL POWER.',
   version: '2.0.0',
-updateZipUrl: "https://github.com/MANI-TECH-BOT/MANI-TECH-BOT/archive/refs/heads/main.zip",
+updateZipUrl: "",
   
 };
 
